@@ -24,3 +24,4 @@ annotation of the Old English original as my term paper for Signum's Introductio
 * rest of morphological tagging
 * rest of glossing
 * syntactic analysis
+* translation alignment
