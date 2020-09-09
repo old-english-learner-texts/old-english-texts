@@ -6,16 +6,16 @@ annotation of the Old English original as my term paper for Signum's Introductio
 ## What's Here Now
 
 * `ang-hatton-sweet.txt` Sweet's Hatton MSS transcription
+* `ang-cotton-sweet.txt` Sweet's Cotton MSS transcription
 * `eng-tauber.txt` Tauber's translation
 
 ## Coming soon
 
-* Sweet's Cotton MSS transcription
-* Sweet's translation
 * normalization and tokenization
 * partial lemmatization
 * partial morphological tagging
 * partial glossing
+* Sweet's translation
 
 ## Coming later
 
