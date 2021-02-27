@@ -7,6 +7,12 @@ The ISWOC Treebank is made available under a Creative Commons Attribution-NonCom
 
 > Bech, Kristin and Kristine Eide. 2014. The ISWOC corpus. Department of Literature, Area Studies and European Languages, University of Oslo. http://iswoc.github.com.
 
+* Ælfric's Lives of Saints `æls`
+* Apollonius of Tyre `apt`
+* Anglo-Saxon Chronicles `chrona`
+* Orosius `or`
+* West-Saxon Gospels `wscp`
+
 All other text and data is made available under a Creative Commons Attribution-ShareAlike 4.0 International License with attribution to James Tauber.
 
 
