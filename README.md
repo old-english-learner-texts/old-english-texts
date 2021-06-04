@@ -2,6 +2,7 @@
 
 * `alfred-preface-pastoral/` — King Alfred’s Preface to Gregory’s Pastoral Care
 * `ISWOC/` — The ISWOC Treebank (Old English subset)
+* `beowulf/` —  Brunetti’s Beowulf + Perseus text + Thorpe
 
 The ISWOC Treebank is made available under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License with attribution:
 
